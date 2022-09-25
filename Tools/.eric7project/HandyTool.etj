@@ -1,0 +1,49 @@
+{
+  "header": {
+    "comment": "eric tasks file for project HandyTool",
+    "warning": "This file was generated automatically, do not edit.",
+    "saved": "2022-09-24, 15:40:27"
+  },
+  "ProjectScanFilter": "",
+  "Tasks": [
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 32,
+      "completed": false,
+      "created": 1664004915.3018143,
+      "type": 1,
+      "uid": "{afd4fdc5-b9bc-48f3-b357-f2239d5c664d}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "E:\\Documents\\Eric\\Tools\\ui\\dialog.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 40,
+      "completed": false,
+      "created": 1664004915.3038135,
+      "type": 1,
+      "uid": "{276c00c9-1256-4a2a-8e0c-ccc90a8b48b9}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "E:\\Documents\\Eric\\Tools\\ui\\dialog.py"
+    },
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic6 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 5,
+      "completed": false,
+      "created": 1664005126.6801865,
+      "type": 2,
+      "uid": "{bc9bb3ba-417a-4d05-b72a-801402fbb3b1}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "E:\\Documents\\Eric\\Tools\\ui\\Ui_dialog.py"
+    }
+  ]
+}

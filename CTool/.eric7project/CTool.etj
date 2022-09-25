@@ -1,0 +1,49 @@
+{
+  "header": {
+    "comment": "eric tasks file for project CTool",
+    "warning": "This file was generated automatically, do not edit.",
+    "saved": "2022-09-25, 21:24:54"
+  },
+  "ProjectScanFilter": "",
+  "Tasks": [
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 32,
+      "completed": false,
+      "created": 1664112178.6054533,
+      "type": 1,
+      "uid": "{f29cab2d-9711-4cbb-b228-5f05fd49c21e}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "E:\\Documents\\Eric\\CTool\\ui\\dialog.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 40,
+      "completed": false,
+      "created": 1664112178.6054533,
+      "type": 1,
+      "uid": "{db74c120-b997-4330-9b62-4a93d01cf67b}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "E:\\Documents\\Eric\\CTool\\ui\\dialog.py"
+    },
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic6 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 5,
+      "completed": false,
+      "created": 1664112291.8235166,
+      "type": 2,
+      "uid": "{3c3d11ce-78b4-4228-94cc-a8c34af2809f}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "E:\\Documents\\Eric\\CTool\\ui\\Ui_dialog.py"
+    }
+  ]
+}
