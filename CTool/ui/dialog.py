@@ -25,15 +25,15 @@ class Dialog(QDialog, Ui_Dialog):
         self.setupUi(self)
     
     @pyqtSlot()
-    def on_pushButton_clicked(self):
+    def on_pushButton_OK_clicked(self):
         """
         Slot documentation goes here.
         """
         # TODO: not implemented yet
-        self.close()
+        pass
     
     @pyqtSlot()
-    def on_pushButton_2_clicked(self):
+    def on_pushButton_Exit_clicked(self):
         """
         Slot documentation goes here.
         """

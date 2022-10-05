@@ -2,22 +2,35 @@
   "header": {
     "comment": "eric tasks file for project CTool",
     "warning": "This file was generated automatically, do not edit.",
-    "saved": "2022-09-25, 21:24:54"
+    "saved": "2022-10-05, 23:32:06"
   },
   "ProjectScanFilter": "",
   "Tasks": [
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic6 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 5,
+      "completed": false,
+      "created": 1664983782.751176,
+      "type": 2,
+      "uid": "{785a98b0-b07d-4c73-bec8-3deced4f5f62}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "E:\\Documents\\Eric\\Eric\\CTool\\ui\\Ui_dialog.py"
+    },
     {
       "summary": "TODO: not implemented yet",
       "description": "",
       "priority": 1,
       "lineno": 32,
       "completed": false,
-      "created": 1664112178.6054533,
+      "created": 1664983867.275274,
       "type": 1,
-      "uid": "{f29cab2d-9711-4cbb-b228-5f05fd49c21e}",
+      "uid": "{2191bf62-6c93-415d-b0c0-a6d71c963662}",
       "parent_uid": "",
       "expanded": false,
-      "filename": "E:\\Documents\\Eric\\CTool\\ui\\dialog.py"
+      "filename": "E:\\Documents\\Eric\\Eric\\CTool\\ui\\dialog.py"
     },
     {
       "summary": "TODO: not implemented yet",
@@ -25,25 +38,12 @@
       "priority": 1,
       "lineno": 40,
       "completed": false,
-      "created": 1664112178.6054533,
+      "created": 1664983867.2772732,
       "type": 1,
-      "uid": "{db74c120-b997-4330-9b62-4a93d01cf67b}",
+      "uid": "{c87eca9b-1cc2-4f40-ab10-374d27e6dd94}",
       "parent_uid": "",
       "expanded": false,
-      "filename": "E:\\Documents\\Eric\\CTool\\ui\\dialog.py"
-    },
-    {
-      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic6 is",
-      "description": "",
-      "priority": 1,
-      "lineno": 5,
-      "completed": false,
-      "created": 1664112291.8235166,
-      "type": 2,
-      "uid": "{3c3d11ce-78b4-4228-94cc-a8c34af2809f}",
-      "parent_uid": "",
-      "expanded": false,
-      "filename": "E:\\Documents\\Eric\\CTool\\ui\\Ui_dialog.py"
+      "filename": "E:\\Documents\\Eric\\Eric\\CTool\\ui\\dialog.py"
     }
   ]
 }
