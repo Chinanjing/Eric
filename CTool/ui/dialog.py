@@ -9,6 +9,8 @@ from PyQt6.QtWidgets import QDialog
 
 from .Ui_dialog import Ui_Dialog
 
+import asyncio
+from websocket import client
 
 class Dialog(QDialog, Ui_Dialog):
     """
@@ -30,6 +32,8 @@ class Dialog(QDialog, Ui_Dialog):
         Slot documentation goes here.
         """
         # TODO: not implemented yet
+        client_recv = asyncio.run(client.light(set_status = "on"))
+        self.label_Log.setText(f"从服务端获取的信息：{client_recv}")
         pass
     
     @pyqtSlot()
@@ -38,4 +42,6 @@ class Dialog(QDialog, Ui_Dialog):
         Slot documentation goes here.
         """
         # TODO: not implemented yet
+        client_recv = asyncio.run(client.light(set_status = "quit"))
+        self.label_Log.setText(f"从服务端获取的信息：{client_recv}")
         self.close()

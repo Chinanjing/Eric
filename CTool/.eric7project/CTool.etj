@@ -2,7 +2,7 @@
   "header": {
     "comment": "eric tasks file for project CTool",
     "warning": "This file was generated automatically, do not edit.",
-    "saved": "2022-10-05, 23:32:06"
+    "saved": "2022-10-09, 23:07:55"
   },
   "ProjectScanFilter": "",
   "Tasks": [
@@ -12,9 +12,9 @@
       "priority": 1,
       "lineno": 5,
       "completed": false,
-      "created": 1664983782.751176,
+      "created": 1665321777.9721081,
       "type": 2,
-      "uid": "{785a98b0-b07d-4c73-bec8-3deced4f5f62}",
+      "uid": "{6d396cb6-74e8-471c-acae-a729cca8a636}",
       "parent_uid": "",
       "expanded": false,
       "filename": "E:\\Documents\\Eric\\Eric\\CTool\\ui\\Ui_dialog.py"
@@ -23,11 +23,11 @@
       "summary": "TODO: not implemented yet",
       "description": "",
       "priority": 1,
-      "lineno": 32,
+      "lineno": 34,
       "completed": false,
-      "created": 1664983867.275274,
+      "created": 1665328072.2752008,
       "type": 1,
-      "uid": "{2191bf62-6c93-415d-b0c0-a6d71c963662}",
+      "uid": "{6e287841-91d2-4286-8faf-23a872e30505}",
       "parent_uid": "",
       "expanded": false,
       "filename": "E:\\Documents\\Eric\\Eric\\CTool\\ui\\dialog.py"
@@ -36,11 +36,11 @@
       "summary": "TODO: not implemented yet",
       "description": "",
       "priority": 1,
-      "lineno": 40,
+      "lineno": 44,
       "completed": false,
-      "created": 1664983867.2772732,
+      "created": 1665328072.2802315,
       "type": 1,
-      "uid": "{c87eca9b-1cc2-4f40-ab10-374d27e6dd94}",
+      "uid": "{c19e3c6a-516b-4d04-a41f-64b95a005fbd}",
       "parent_uid": "",
       "expanded": false,
       "filename": "E:\\Documents\\Eric\\Eric\\CTool\\ui\\dialog.py"
