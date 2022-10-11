@@ -15,8 +15,6 @@ async def light_status(websocket, path):
             await websocket.send("开灯")
         elif path.params["status"] == "off":
             await websocket.send("关灯")
-        elif path.params["status"] == "quit":
-            await websocket.close()
         else:
             await websocket.send("参数无效")
         
@@ -26,4 +24,7 @@ async def main():
         await asyncio.Future()  # run forever
         
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print('Quit')

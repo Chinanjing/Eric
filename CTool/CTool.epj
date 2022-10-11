@@ -2,7 +2,7 @@
   "header": {
     "comment": "eric project file for project CTool",
     "copyright": "Copyright (C) 2022 yangneng, 1030687899@qq.com",
-    "saved": "2022-10-09, 20:12:36"
+    "saved": "2022-10-09, 23:12:55"
   },
   "project": {
     "AUTHOR": "yangneng",
@@ -74,7 +74,10 @@
       "main.py",
       "ui/Ui_dialog.py",
       "ui/__init__.py",
-      "ui/dialog.py"
+      "ui/dialog.py",
+      "websocket/__init__.py",
+      "websocket/client.py",
+      "websocket/server.py"
     ],
     "SPELLEXCLUDES": "",
     "SPELLLANGUAGE": "en_US",
